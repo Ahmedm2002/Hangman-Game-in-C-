@@ -14,6 +14,7 @@ void displayhangman(string fName){
 		cout << " |_______   " << endl;
 		cout << endl;
 }
+// this is a test commit 
 void resetGame(vector<string> &usedWords, string & sectretLetter)
 {
     usedWords.clear();
